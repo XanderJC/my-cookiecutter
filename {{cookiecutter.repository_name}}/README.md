@@ -24,11 +24,6 @@
 │   ├── exploratory    <- Notebooks for initial exploration.
 │   └── reports        <- Polished notebooks for presentations or intermediate results.
 │
-├── report             <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   ├── figures        <- Generated graphics and figures to be used in reporting
-│   └── sections       <- LaTeX sections. The report folder can be linked to your overleaf
-|                         report with github submodules.
-│
 ├── requirements       <- Directory containing the requirement files.
 │
 ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
