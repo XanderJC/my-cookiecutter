@@ -4,7 +4,7 @@ setup(
     name="src",
     version="0.0.1",
     author="{{ cookiecutter.author_name }}",
-    author_email="author@example.com",
+    author_email="alexjameschan@gmail.com",
     description="{{ cookiecutter.description }}",
     url="url-to-github-page",
     packages=find_packages(),

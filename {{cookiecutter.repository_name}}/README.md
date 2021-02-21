@@ -9,9 +9,6 @@
 ## Requirements
 - Python {{ cookiecutter.python_version }}+
 
-## Getting started
-
-
 ## Project Organization
 ```
 ├── LICENSE
