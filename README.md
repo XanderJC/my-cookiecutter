@@ -1,6 +1,6 @@
 # Machine Learning Project Cookiecutter
 
-This cookiecutter provides a quick and easy way to create new projects for most environmental data science research projects. 
+This cookiecutter provides a quick and easy way to create new ML projects. 
 It was inspired by [Cookiecutter DataScience](https://drivendata.github.io/cookiecutter-data-science/) and is a lightly edited fork of the [AI4ER Cookiecutter](https://github.com/ai4er-cdt/ai4er-cookiecutter).
 
 The current version automatically sets up:
